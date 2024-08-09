@@ -21,9 +21,9 @@
     <string name="afterlife_maintainer">Keep Alive By</string>
     <string name="its_official">This devices official supported!</string>
     <string name="its_unofficial">This devices community supported!</string>
-    <string name="maintainer_git_username">null</string>
-    <string name="maintainer_tele_username">null</string>
-    <string name="maintainer_ig_username">null</string>
+    <string name="maintainer_git_username">MrTopia</string>
+    <string name="maintainer_tele_username">MrTopia</string>
+    <string name="maintainer_ig_username">_Mr.Topia_</string>
     <string name="maintainer_fb_username">null</string>
 
     <!-- SELinux Status -->
